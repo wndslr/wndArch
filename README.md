@@ -25,11 +25,7 @@ cd ~/wndArch/
 ./install.sh
 ```
 
-> Скрипт копирует конфиги в `~/.config/`. Существующие файлы **перезаписываются**.
-
 ### Зависимости
-
-Установи пакеты перед запуском скрипта:
 
 ```bash
 yay -S hyprland waybar kitty neovim wofi hyprlock hyprpaper swww fish
@@ -110,7 +106,7 @@ set wallpaper_dir $HOME/wallpapers/
 
 ---
 
-## Специфично для ASUS
+## Специфично для ASUS, тестил на vivobook pro 15 с Amd Ryzen 7 5800H
 
 Следующие хоткеи и функции работают только на ноутбуках ASUS,
 и требуют `asusctl` + `brightnessctl`:
