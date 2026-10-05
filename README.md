@@ -111,7 +111,7 @@ set wallpaper_dir $HOME/wallpapers/
 
 ## Специфично для ASUS, тестил на vivobook pro 15 с AMD Ryzen 7 5800H
 
-Следующие хоткеи и функции работают только на ноутбуках ASUS,
+Хоткеи и функции работают только на ноутбуках ASUS,
 и требуют `asusctl` + `brightnessctl`:
 
 - `Super + F6/F7` — подсветка клавиатуры
