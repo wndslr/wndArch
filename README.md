@@ -28,11 +28,15 @@ cd ~/wndArch/
 ### Зависимости
 
 ```bash
-yay -S hyprland waybar kitty neovim wofi hyprlock hyprpaper swww fish asusctl
+yay -S hyprland waybar kitty neovim wofi hyprlock hyprpaper swww fish
 ```
 ### Программы под хоткеи
 ```bash
 yay -S zen-browser-bin hyprshot clipse brigtnessctl cpupower timeshift
+```
+Если ASUS
+```bash
+yay -S asusctl
 ```
 ---
 
