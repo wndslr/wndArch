@@ -12,7 +12,6 @@ NC='\033[0m'
 echo -e "${GREEN}Installing dotfiles...${NC}"
 echo ""
 
-# Папки конфигов для копирования
 configs=(
     "hypr"
     "waybar"
@@ -36,7 +35,6 @@ done
 
 echo ""
 
-# Создать папку для обоев если нет
 WALLPAPER_DIR="$HOME/wallpapers"
 if [ ! -d "$WALLPAPER_DIR" ]; then
     echo -e "  Creating ${GREEN}~/wallpapers/${NC} — положи сюда свои обои"
@@ -45,9 +43,3 @@ fi
 
 echo ""
 echo -e "${GREEN}Done!${NC}"
-echo ""
-echo "Что дальше:"
-echo "  1. Положи обои в ~/wallpapers/"
-echo "  2. Если ASUS — замени device id тачпада в hyprland.conf и config.fish"
-echo "     Свой id: hyprctl devices | grep -i touchpad"
-echo "  3. Установи SDDM тему: https://github.com/keyitdev/sddm-astronaut-theme"
