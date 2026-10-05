@@ -73,7 +73,7 @@ set wallpaper_dir $HOME/wallpapers/
 | `Super + D` | Показать/скрыть Waybar |
 | `Super + M` | Выйти из Hyprland |
 
-### Скриншоты
+### Скриншоты (hyprshot)
 
 | Хоткей | Действие |
 |--------|----------|
