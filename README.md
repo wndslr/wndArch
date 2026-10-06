@@ -30,7 +30,7 @@ yay -S hyprland waybar kitty neovim wofi hyprlock hyprpaper swww fish
 ```
 ### Программы под хоткеи
 ```bash
-yay -S zen-browser-bin hyprshot clipse brigtnessctl cpupower timeshift
+yay -S zen-browser-bin hyprshot clipse brightnessctl cpupower timeshift telegram-deskrop
 ```
 Если ASUS
 ```bash
