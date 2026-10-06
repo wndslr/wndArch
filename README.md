@@ -26,7 +26,7 @@ cd ~/wndArch/
 ### Зависимости
 
 ```bash
-yay -S hyprland waybar kitty neovim wofi hyprlock hyprpaper swww fish
+yay -S hyprland waybar kitty neovim wofi hyprlock hyprpaper awww fish
 ```
 ### Программы под хоткеи
 ```bash
