@@ -10,7 +10,7 @@
 | Editor | [Neovim](https://neovim.io/) |
 | Launcher | [Wofi](https://hg.sr.ht/~scoopta/wofi) |
 | Lock Screen | [Hyprlock](https://github.com/hyprwm/hyprlock) |
-| Wallpaper | [swww](https://github.com/LGFae/swww) |
+| Wallpaper | [awww](https://github.com/LGFae/swww) |
 | Shell | [Fish](https://fishshell.com/) |
 | Display Manager | [SDDM](https://github.com/sddm/sddm) + [sddm-astronaut-theme](https://github.com/keyitdev/sddm-astronaut-theme) |
 | Colorscheme | Catppuccin Macchiato |
