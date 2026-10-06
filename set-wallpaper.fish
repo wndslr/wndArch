@@ -11,7 +11,7 @@ end
 
 set random_wallpaper (printf '%s\n' $wallpapers | shuf -n1)
 
-swww img $random_wallpaper \
+awww img $random_wallpaper \
     --transition-type any \
     --transition-pos 0.5,0.5 \
     --transition-fps 60 \
